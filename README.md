@@ -68,6 +68,6 @@ Google, Apple Maps - Show Pins on Map and route from source to destination
                 definesPresentationContext = true
                 locationSearchTable.mapView = vwMap
                 locationSearchTable.handleMapSearchDelegate = self
-            }
+               }
         - Now we will add extension for MKMapViewDelegate and will use the method viewFor.
 
